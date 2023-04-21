@@ -51,8 +51,6 @@ margin: 10px auto 0;
 .accent-color {
     color: #00a4e5;
 }
-.story_text {
-}
 .story_rigth {
     display: flex;
     align-items: flex-end;
@@ -69,13 +67,13 @@ margin: 10px auto 0;
     margin-right: 20px;
 }
 .story_item:nth-child(1){
-    background-image: url(/img/Bitmap-1.png);
+    background-image: url(../img/Bitmap-1.png);
 }
 .story_item:nth-child(2){
-    background-image: url(/img/Bitmap-2.png);
+    background-image: url(../img/Bitmap-2.png);
 }
 .story_item:nth-child(3){
-    background-image: url(/img/Bitmap.png);
+    background-image: url(../img/Bitmap.png);
     margin-right: 0;
 }
 .story__inner{
